@@ -1,14 +1,13 @@
 /* style.css */
 
 html {
-    background-color: aqua;
+    background-color: rgb(252, 157, 3);
 }
 
 h1 {
-    color: blueviolet;
+    color:blue;
 }
 
 a {
     font-family: 'Courier New', Courier, monospace;
-    font-size: 40 px;
 }
