@@ -2,6 +2,7 @@ html {
     background-color: rgb(252, 152, 3);
 }
 
-h1 {
+h1,
+h2 {
     color: blue;
 }
