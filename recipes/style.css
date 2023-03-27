@@ -6,3 +6,9 @@ h1,
 h2 {
     color: blue;
 }
+
+p,
+ul,
+ol {
+    font-family: 'Courier New', Courier, monospace;
+}
