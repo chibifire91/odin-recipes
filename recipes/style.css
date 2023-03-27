@@ -12,3 +12,8 @@ ul,
 ol {
     font-family: 'Courier New', Courier, monospace;
 }
+
+img {
+    height: auto;
+    width: 500px
+}
